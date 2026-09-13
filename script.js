@@ -8,4 +8,9 @@
 
 
 
-document.getElementById()
+
+let projects = 1;
+
+projects = projects + 1;
+
+console.log(projects);
