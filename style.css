@@ -397,7 +397,8 @@ button:hover{
     display: inline-block;
     width: fit-content;
     padding:10px;
-     margin:auto
+    margin:auto;
+    border-radius: 20px;
 }
 
 #uhm{
