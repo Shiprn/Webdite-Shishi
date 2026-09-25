@@ -27,3 +27,19 @@ if (heading) {
 
     heading.textContent = `Hello ${FirstName}`;
 }
+
+let searchButton = document.getElementById("searchbutton");
+let songinput = document.getElementById("songinput");
+
+searchButton.addEventListener("click", function(){
+   console.log(songinput.value)
+   if (songinput.value === "") { results.textContent = "Did you search for something"
+
+}
+else{
+  results.textContent = `You searched for ${songinput.value}`;
+}
+})
+
+let results = document.getElementById("results")
+ 

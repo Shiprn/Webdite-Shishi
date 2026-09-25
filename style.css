@@ -404,3 +404,20 @@ button:hover{
 #uhm{
     text-align: center;
 }
+
+.longer{
+     width: 98%;
+     padding:5px;   
+}
+
+#songinput{
+ border: 3px solid #1e293b;
+ width: 40%;
+ border-radius: 20px;
+ height: 30px;
+ display: block;
+ margin: auto;
+ padding: 10px;
+}
+
+
