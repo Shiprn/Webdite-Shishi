@@ -392,3 +392,32 @@ button:hover{
 .home:hover{
        color: #1e498f;
 }
+
+.dynamic{
+    display: inline-block;
+    width: fit-content;
+    padding:10px;
+    margin:auto;
+    border-radius: 20px;
+}
+
+#uhm{
+    text-align: center;
+}
+
+.longer{
+     width: 98%;
+     padding:5px;   
+}
+
+#songinput{
+ border: 3px solid #1e293b;
+ width: 40%;
+ border-radius: 20px;
+ height: 30px;
+ display: block;
+ margin: auto;
+ padding: 10px;
+}
+
+
