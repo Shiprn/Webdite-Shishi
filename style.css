@@ -392,3 +392,14 @@ button:hover{
 .home:hover{
        color: #1e498f;
 }
+
+.dynamic{
+    display: inline-block;
+    width: fit-content;
+    padding:10px;
+     margin:auto
+}
+
+#uhm{
+    text-align: center;
+}
