@@ -377,6 +377,14 @@ button:hover{
        display: block;
 }
 
+.end-link{
+       box-sizing: border-box;
+       color: inherit;
+       line-height: 44px;
+       text-align: center;
+       text-decoration: none;
+}
+
 .butt:hover{
         background-color: #1e293b;
        color: white;   
